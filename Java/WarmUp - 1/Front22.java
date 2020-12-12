@@ -4,11 +4,11 @@
 // front22("Ha") → "HaHaHa"
 // front22("abc") → "ababcab"
 
-public class Front22 
+public class Front22
 {
-    public String front22(String str) 
+    public String front22(String str)
     {
-        if (str.length() < 2) 
+        if (str.length() < 2)
         {
             return str + str + str;
         }
