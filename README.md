@@ -1,2 +1,2 @@
 # Coding-bat
-My solutions for the Coding - bat JAVA problems .
+My solutions for the Coding-Bat problems.
