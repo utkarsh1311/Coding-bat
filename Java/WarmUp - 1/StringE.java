@@ -1,3 +1,4 @@
+
 public class StringE {
     public boolean stringE(String str) {
         int count = 0;
