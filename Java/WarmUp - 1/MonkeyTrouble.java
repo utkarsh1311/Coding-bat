@@ -6,7 +6,9 @@
     monkeyTrouble(false, false) → true
     monkeyTrouble(true, false) → false
 */
+public class MonkeyTrouble {
 
-public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
- return !(aSmile ^ bSmile);
+    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+        return !(aSmile ^ bSmile);
+    }
 }
